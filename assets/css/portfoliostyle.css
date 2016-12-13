@@ -18,7 +18,7 @@ a:hover {
 
 body {
  	background-color: #FFF;
- 	font-family: "Avenir";
+ 	font-family: "Nunito", sans-serif;
 	color: #4A4A4A;
 }
 
@@ -61,7 +61,7 @@ body {
 }
 
 h1,h2,h3,h4,h5 {
-	
+
 	position: relative;
 }
 h1{
@@ -94,7 +94,7 @@ h2.whitehr:after {
 	background-color:#FFF;
 	height: 2px;
 	left:0%;
-	bottom:0px;	
+	bottom:0px;
 }
 
 .nav-custom {
@@ -141,7 +141,7 @@ h3 {
 .contenttext {
 	padding-top: 20px;
 	padding-bottom: 75px;
-	
+
 }
 
 .columntext {
@@ -211,7 +211,7 @@ img.gallery {
 	vertical-align:middle;
 }
 
-.thumbinfo {  
+.thumbinfo {
 	font-weight:900;
 	font-size: 36px;
 	color: #4A4A4A;
