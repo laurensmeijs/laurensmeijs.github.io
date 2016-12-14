@@ -33,6 +33,7 @@ body {
 	transform: translate(-50%,-50%);
 }
 
+/* Color styling */
 .fresh-bg {
 	background: #85FFD7;
 }
@@ -64,9 +65,11 @@ h1,h2,h3,h4,h5 {
 
 	position: relative;
 }
+
 h1{
 	font-size:70px;
 }
+
 h1:after {
 	position:absolute;
 	content: '';
@@ -77,6 +80,7 @@ h1:after {
 	bottom:10px;
 	transform:translateX(-50%);
 }
+
 h2:after {
 	position:absolute;
 	content: '';
@@ -159,6 +163,7 @@ h3 {
 .gallery {
 	padding-top: 20px;
 }
+
 img.gallery {
 	margin-left: auto;
 	margin-right: auto;
