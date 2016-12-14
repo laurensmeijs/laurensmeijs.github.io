@@ -141,12 +141,12 @@ h3 {
 .contenttext {
 	padding-top: 20px;
 	padding-bottom: 75px;
-	text-align: center;
 }
 
 .columntext {
 	padding-bottom: 20px;
 	font-size: 12px;
+	text-align: center;
 }
 
 .icon-center {
